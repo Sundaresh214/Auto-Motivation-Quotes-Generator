@@ -51,6 +51,7 @@ function getQuote() {
         "Perseverance is not a long race; it's many short races one after the other.",
         "Success is the sum of small efforts, repeated day-in and day-out.",
         "The only person you are destined to become is the person you decide to be."
+        "ootha punda mona ne ena periya alla poda loosu kuthi
     ];
     
 
